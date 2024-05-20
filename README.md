@@ -1,4 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
+## NAME: ADHITHYA PERUMAL D
+
+## REG.NO: 212222230007
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
